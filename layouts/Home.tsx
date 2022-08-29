@@ -16,7 +16,7 @@ export function Home({ children }: any): JSX.Element {
                 {children}
             </div>
             <div className="fixed  bg-white w-full bottom-0 z-50 md:w-2/3 lg:w-1/3">
-
+            {/* //---------------------- */}
                 <Menu />
             </div>
 

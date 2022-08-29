@@ -20,6 +20,7 @@ export default function CreatedDesigns(): JSX.Element {
 <h1 className="font-bold mb-2">
     Created Design
 </h1>
+{/* //---------------------- */}
 <div className="grid grid-cols-2 gap-3">
 
 {createdDesign.map((item, index)=>(
