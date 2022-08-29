@@ -1,0 +1,33 @@
+/* bg-white p-6 rounded-t-3xl h-full */
+.roundedRectangle {
+  background-color: #ffffff;
+  border-top-right-radius: 51px;
+  border-top-left-radius: 51px;
+  padding: 30px;
+  height: 100%;
+}
+
+.registrationImage {
+  margin-top: 20;
+  box-shadow: 2px 2px 4px #000000;
+  border-radius: 20;
+  background-color: #ffffff;
+}
+
+.Button{
+  background-color: #D8B79F;
+  width: 100%;
+  font-weight: bold;
+  border-radius: 0.25rem;
+  padding:0.5rem 0.5rem 0.5rem 0.5rem;
+  /* height: 30px; */
+}
+
+.disabledButton{
+  background-color: #D8B79F;
+  opacity: 0.5;
+  width: 100%;
+  font-weight: bold;
+  border-radius: 0.25rem;
+  padding:0.5rem 0.5rem 0.5rem 0.5rem;
+}
