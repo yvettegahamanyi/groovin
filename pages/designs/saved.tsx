@@ -14,7 +14,7 @@ export default function saved(): JSX.Element {
             <div className="px-3">
             <h1 className="font-bold mb-2">
                 My Saved Designs
-            </h1>
+            </h1> 
             <div className="grid grid-cols-2 gap-3">
 
             <Design />

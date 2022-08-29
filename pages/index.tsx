@@ -18,6 +18,7 @@ const Home: NextPage = () => {
         <div>
           <Image src="/assets/images/Logo.png" width={100} height={80} alt="logo" />
         </div>
+         {/* //---------------------- */}
       </div>
     </div>
   );
